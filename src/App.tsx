@@ -1,5 +1,5 @@
 import './index.css'
-import { Instagram, MessageCircle, Box } from "lucide-react";
+import { Box } from "lucide-react";
 function App() {
   return (
     <main className="page">

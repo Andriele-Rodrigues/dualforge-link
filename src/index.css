@@ -261,11 +261,12 @@
 @media (max-width: 480px) {
   .content {
     padding: 24px 14px 32px;
+    left: 20px;
   }
 
   .logo-ring {
-    width: 128px;
-    height: 128px;
+    width: 120px;
+    height: 120px;
   }
 
   .line {
